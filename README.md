@@ -929,6 +929,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [DynamoDB](https://aws.amazon.com/dynamodb/) [[dynamodb](https://crates.io/keywords/dynamodb)]
     * [softprops/dynomite](https://github.com/softprops/dynomite) - A library for strongly-typed and convenient interaction with `rusoto_dynamodb` [<img src="https://github.com/softprops/dynomite/workflows/Main/badge.svg?branch=master"/>](https://github.com/softprops/dynomite/actions)
   * Elasticsearch [[elasticsearch](https://crates.io/keywords/elasticsearch)]
+    * [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs)[[elasticsearch]](https://crates.io/crates/elasticsearch) - The official Rust client for Elasticsearch.
     * [benashford/rs-es](https://github.com/benashford/rs-es) [[rs-es](https://crates.io/crates/rs-es)] — A Rust client for the [Elastic](https://www.elastic.co/) REST API [<img src="https://api.travis-ci.org/benashford/rs-es.svg?branch=master">](https://travis-ci.org/benashford/rs-es)
     * [elastic-rs/elastic](https://github.com/elastic-rs/elastic) [[elastic](https://crates.io/crates/elastic)] — elastic is an efficient, modular API client for Elasticsearch written in Rust [<img src="https://api.travis-ci.org/elastic-rs/elastic.svg?branch=master">](https://travis-ci.org/elastic-rs/elastic) [<img src="https://ci.appveyor.com/api/projects/status/csa78tcumdpnbur2?svg=true">](https://ci.appveyor.com/project/KodrAus/elastic)
   * etcd
